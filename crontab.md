@@ -1,6 +1,6 @@
 ﻿#Crontab
-##1.Crontab là gì
-- Crontab là một chương trình lập lịch công việc dựa trên thời gian trong các hệ điều hành linux/unix
+##1.Cron / crontab là gì
+- Cron là một chương trình lập lịch công việc dựa trên thời gian trong các hệ điều hành linux/unix. Crontab là một file chứ bảng biểu(lịch) của các entry được chạy
 
 ##2. Quản lý crontab
 - Khai báo user trong /etc/cron.allow (Đường dẫn trên Ubuntu 14.04) thì những user đó sẽ được sử dụng crontab
