@@ -15,7 +15,9 @@
 
 ##4.Crontab file
 - Cú pháp crontab
+
 <img src="https://domotiga.nl/attachments/download/1692/Crontab.png">
+
 - Lưu ý:
 
   + Ngày được định nghĩa bằng 2 cách đó là ngày trong tháng và ngày trong tuần. Nếu cả 2 được định nghĩa trong cùng 1 entry thì nó sẽ được thực thi cả 2.
